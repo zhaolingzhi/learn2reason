@@ -1,0 +1,418 @@
+(lp0
+(lp1
+(lp2
+I1
+aa(lp3
+I2
+aa(lp4
+I1
+aI3
+aa(lp5
+I2
+aI3
+aa(lp6
+I1
+aI4
+aa(lp7
+I2
+aI4
+aa(lp8
+I6
+aI1
+aa(lp9
+I6
+aI2
+aa(lp10
+I6
+aI1
+aI3
+aa(lp11
+I6
+aI2
+aI3
+aa(lp12
+I6
+aI1
+aI4
+aa(lp13
+I6
+aI2
+aI4
+aa(lp14
+I5
+aI1
+aa(lp15
+I5
+aI2
+aa(lp16
+I1
+aI3
+aI1
+aa(lp17
+I1
+aI3
+aI2
+aa(lp18
+I1
+aI4
+aI1
+aa(lp19
+I1
+aI4
+aI2
+aa(lp20
+I2
+aI3
+aI1
+aa(lp21
+I2
+aI3
+aI2
+aa(lp22
+I2
+aI4
+aI1
+aa(lp23
+I2
+aI4
+aI2
+aa(lp24
+I5
+aI5
+aI1
+aa(lp25
+I5
+aI5
+aI2
+aa(lp26
+I6
+aI1
+aI7
+aa(lp27
+I6
+aI2
+aI7
+aa(lp28
+I6
+aI1
+aI3
+aI1
+aa(lp29
+I6
+aI1
+aI3
+aI2
+aa(lp30
+I6
+aI1
+aI4
+aI1
+aa(lp31
+I6
+aI1
+aI4
+aI2
+aa(lp32
+I6
+aI2
+aI3
+aI1
+aa(lp33
+I6
+aI2
+aI3
+aI2
+aa(lp34
+I6
+aI2
+aI4
+aI1
+aa(lp35
+I6
+aI2
+aI4
+aI2
+aa(lp36
+I6
+aI1
+aI3
+aI1
+aI7
+aa(lp37
+I6
+aI1
+aI3
+aI2
+aI7
+aa(lp38
+I6
+aI1
+aI4
+aI1
+aI7
+aa(lp39
+I6
+aI1
+aI4
+aI2
+aI7
+aa(lp40
+I6
+aI2
+aI3
+aI1
+aI7
+aa(lp41
+I6
+aI2
+aI3
+aI2
+aI7
+aa(lp42
+I6
+aI2
+aI4
+aI1
+aI7
+aa(lp43
+I6
+aI2
+aI4
+aI2
+aI7
+aaa(lp44
+I0
+aI1
+acnumpy.core.multiarray
+scalar
+p45
+(cnumpy
+dtype
+p46
+(S'i8'
+p47
+I0
+I1
+tp48
+Rp49
+(I3
+S'<'
+p50
+NNNI-1
+I-1
+I0
+tp51
+bS'\x07\x00\x00\x00\x00\x00\x00\x00'
+p52
+tp53
+Rp54
+ag45
+(g49
+S'\n\x00\x00\x00\x00\x00\x00\x00'
+p55
+tp56
+Rp57
+ag45
+(g49
+S'\x08\x00\x00\x00\x00\x00\x00\x00'
+p58
+tp59
+Rp60
+ag45
+(g49
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p61
+tp62
+Rp63
+ag45
+(g49
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p64
+tp65
+Rp66
+ag45
+(g49
+S'\x1a\x00\x00\x00\x00\x00\x00\x00'
+p67
+tp68
+Rp69
+ag45
+(g49
+S'!\x00\x00\x00\x00\x00\x00\x00'
+p70
+tp71
+Rp72
+ag45
+(g49
+S'#\x00\x00\x00\x00\x00\x00\x00'
+p73
+tp74
+Rp75
+ag45
+(g49
+S'"\x00\x00\x00\x00\x00\x00\x00'
+p76
+tp77
+Rp78
+ag45
+(g49
+S'$\x00\x00\x00\x00\x00\x00\x00'
+p79
+tp80
+Rp81
+aI1
+aI0
+aI0
+aI0
+aI0
+aI1
+aI0
+aI1
+aI1
+aI1
+aI0
+aI1
+aI0
+aI1
+ag45
+(g49
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p82
+tp83
+Rp84
+ag45
+(g49
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p85
+tp86
+Rp87
+ag45
+(g49
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p88
+tp89
+Rp90
+ag45
+(g49
+S'\x1a\x00\x00\x00\x00\x00\x00\x00'
+p91
+tp92
+Rp93
+ag45
+(g49
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p94
+tp95
+Rp96
+ag45
+(g49
+S'\x1a\x00\x00\x00\x00\x00\x00\x00'
+p97
+tp98
+Rp99
+ag45
+(g49
+S'\x1a\x00\x00\x00\x00\x00\x00\x00'
+p100
+tp101
+Rp102
+ag45
+(g49
+S'\x1a\x00\x00\x00\x00\x00\x00\x00'
+p103
+tp104
+Rp105
+aI0
+aI0
+aI0
+aI1
+aI0
+aI1
+aI1
+aI1
+aa(lp106
+S' 0'
+p107
+aS' 1'
+p108
+aS' 0 and'
+p109
+aS' 1 and'
+p110
+aS' 0 or '
+p111
+aS' 1 or'
+p112
+aS' ( 0'
+p113
+aS' ( 1'
+p114
+aS' ( 0 and'
+p115
+aS' ( 1 and'
+p116
+aS' ( 0 or '
+p117
+aS' ( 1 or'
+p118
+aS' not 0'
+p119
+aS' not 1'
+p120
+aS' 0 and 0'
+p121
+aS' 0 and 1'
+p122
+aS' 0 or 0'
+p123
+aS' 0 or 1'
+p124
+aS' 1 and 0'
+p125
+aS' 1 and 1'
+p126
+aS' 1 or 0'
+p127
+aS' 1 or 1'
+p128
+aS' not not 0'
+p129
+aS' not not 1'
+p130
+aS' ( 0 )'
+p131
+aS' ( 1 )'
+p132
+aS' ( 0 and 0'
+p133
+aS' ( 0 and 1'
+p134
+aS' ( 0 or 0'
+p135
+aS' ( 0 or 1'
+p136
+aS' ( 1 and 0'
+p137
+aS' ( 1 and 1'
+p138
+aS' ( 1 or 0'
+p139
+aS' ( 1 or 1'
+p140
+aS' ( 0 and 0 )'
+p141
+aS' ( 0 and 1 )'
+p142
+aS' ( 0 or 0 )'
+p143
+aS' ( 0 or 1 )'
+p144
+aS' ( 1 and 0 )'
+p145
+aS' ( 1 and 1 )'
+p146
+aS' ( 1 or 0 )'
+p147
+aS' ( 1 or 1 )'
+p148
+aa.

@@ -1,0 +1,94 @@
+T
+F
+F^
+Fv
+F)
+T^
+Tv
+T)
+^F
+^T
+^~
+^(
+vF
+vT
+v~
+v(
+~F T
+~T F
+~~
+~(
+(F
+(T
+(~
+((
+()
+)^
+)v
+))
+
+F ^
+F v
+F )
+T ^
+T v
+T )
+^ F
+^ T
+^ ~
+^ (
+v F
+v T
+v ~
+v (
+~ F
+~ T
+~ ~
+~ (
+( F
+( T
+( ~
+( (
+( )
+) ^
+) v
+) )
+
+
+F^ T F
+F^ F F
+Fv T T
+Fv F F
+^ F) ^F)
+v F) vF)
+~ F) ~F)
+F) ^ F)^
+F) v F)v
+
+T^ T T
+T^ F F
+Tv T T
+Tv F T
+^ T) ^T)
+v T) vT)
+~ T) ~T)
+T ^F
+F ^F
+^~
+^(
+T vF
+F vF
+T vT
+F vT
+v~
+v(
+~~
+~(
+(F
+(T
+(~
+((
+()
+)^
+)v
+))
